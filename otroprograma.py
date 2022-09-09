@@ -1,2 +1,3 @@
-for x in range(1,22):
-    print(x)
+def sumar(n1,n2):
+
+    return n1+n2
